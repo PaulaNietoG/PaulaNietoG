@@ -11,7 +11,7 @@ I'm very enthusiastic about reproducibility and open science and I'm all about e
 
 
 ## Find me elsewhere!
-Twitter: twitter.com/paulanietog
+Twitter: http://twitter.com/paulanietog/
 
 
 ![](img/animal_crossing.gif)
