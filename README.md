@@ -1,16 +1,17 @@
-### Hi there 👋
+# Paula Nieto (she/her)
 
-<!--
-**PaulaNietoG/PaulaNietoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Paula Nieto, a young Computational Biotechnologist highly motivated and with a lot to learn ahead! 
 
-Here are some ideas to get you started:
+## What I'm up to right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:round_pushpin: At the moment I work as a Bioinformatician/Data Analyst at CNAG-CRG in Barcelona, Spain ([check us out!](https://cnag.crg.eu/teams/genome-research-unit/single-cell-genomics-team)).
+My research focuses on cancer, immunology and immunotherapy but not exclusively!
+
+I'm very enthusiastic about reproducibility and open science and I'm all about equal oportunities for women, people of color and LGBTQIA+ folks in science! :rainbow:
+
+
+## Find me elsewhere!
+Twitter: twitter.com/paulanietog
+
+
+![](img/animal_crossing.gif)
