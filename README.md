@@ -1,7 +1,7 @@
 # Paula Nieto (she/her)
 
 |￣￣￣￣￣￣￣ |   
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HI &nbsp;&nbsp;&nbsp;&nbsp;|    
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|    
 | ＿＿＿＿＿＿＿|    
 (\\\__/)&nbsp;&nbsp;||    
 (•ㅅ•) ||    
