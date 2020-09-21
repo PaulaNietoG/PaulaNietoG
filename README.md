@@ -1,15 +1,11 @@
 # Paula Nieto (she/her)
 
-|-----------|
-|           |
-|           |
-|           |
-|           |
-| HI        |
-|-----------|
-(\__/) ||
-(•ㅅ•) ||
-/ 　 づ
+|￣￣￣￣￣￣￣ |   
+|&nbsp;&nbsp;&nbsp; HI &nbsp;&nbsp;&nbsp;|    
+| ＿＿＿＿＿＿＿|    
+(\\\__/)&nbsp;&nbsp;||    
+(•ㅅ•) ||    
+/ 　 づ 
 
 
 I'm Paula, a young Computational Biotechnologist highly motivated and with a lot to learn ahead! 
