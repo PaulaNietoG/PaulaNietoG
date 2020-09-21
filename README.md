@@ -1,6 +1,18 @@
 # Paula Nieto (she/her)
 
-Hi, I'm Paula Nieto, a young Computational Biotechnologist highly motivated and with a lot to learn ahead! 
+|-----------|
+|           |
+|           |
+|           |
+|           |
+| HI        |
+|-----------|
+(\__/) ||
+(•ㅅ•) ||
+/ 　 づ
+
+
+I'm Paula, a young Computational Biotechnologist highly motivated and with a lot to learn ahead! 
 
 ## What I'm up to right now
 
