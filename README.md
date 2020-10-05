@@ -24,6 +24,7 @@ I'm very enthusiastic about reproducibility and open science and I'm all about e
 
 ## Find me elsewhere!
 Twitter: [paulanietog](http://twitter.com/paulanietog/)
+
 LinkedIn: [paula-nieto-garcia](https://www.linkedin.com/in/paula-nieto-garcia/)
 
 [Send me an email!](mailto:nietogarciapaula@gmail.com)
