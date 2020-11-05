@@ -16,7 +16,7 @@
 
 :space_invader: My research focuses on cancer, immunology and immunotherapy and single-cell RNA-Seq but not exclusively! You can check out my preprint [A Single-Cell Tumor Immune Atlas for Precision Oncology](https://www.biorxiv.org/content/10.1101/2020.10.26.354829v1)
 
-:droplet: I'm very enthusiastic about reproducibility and open science and I'm all about equal oportunities for women, people of color and LGBTQIA+ folks in science! :rainbow:
+:globe_with_meridians: I'm very enthusiastic about reproducibility and open science and I'm all about equal oportunities for women, people of color and LGBTQIA+ folks in and out of science! :rainbow:
 
 
 
