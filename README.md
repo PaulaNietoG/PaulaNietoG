@@ -23,5 +23,5 @@
 ## Find me elsewhere!
 Twitter: [paulanietog](http://twitter.com/paulanietog/) | LinkedIn: [paula-nieto-garcia](https://www.linkedin.com/in/paula-nieto-garcia/) | [Send me an email](mailto:nietogarciapaula@gmail.com)
 
-<div style="text-align:center">< ![](img/animal_crossing.gif) /></div>
+![](img/animal_crossing.gif)
 
