@@ -16,6 +16,8 @@ I'm Paula, a Computational Biotechnologist from Madrid, Spain.
 
 My research focuses on cancer, immunology and immunotherapy and single-cell RNA-Seq but not exclusively!
 
+Check out my preprint [A Single-Cell Tumor Immune Atlas for Precision Oncology](https://www.biorxiv.org/content/10.1101/2020.10.26.354829v1)
+
 
 
 I'm very enthusiastic about reproducibility and open science and I'm all about equal oportunities for women, people of color and LGBTQIA+ folks in science! :rainbow:
@@ -27,6 +29,7 @@ Twitter: [paulanietog](http://twitter.com/paulanietog/)
 
 LinkedIn: [paula-nieto-garcia](https://www.linkedin.com/in/paula-nieto-garcia/)
 
-[Send me an email!](mailto:nietogarciapaula@gmail.com)
+[Send me an email](mailto:nietogarciapaula@gmail.com)
+
 
 ![](img/animal_crossing.gif)
